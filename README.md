@@ -1,5 +1,5 @@
 # Kodluyoruz Ilk Repo
-Bu repo Kodluyoruz Front -End Egitiminde olusturdugumuz ilk repo.Icerisinde bir adet README dosyasi , bir adet de index.html barindiriyor.
+Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front -End Egitiminde olusturdugumuz ilk repo.Icerisinde bir adet README dosyasi , bir adet de index.html barindiriyor.
 
 ![](IMG/odev1.png)
 --------------------------
@@ -21,4 +21,4 @@ Pull requestler kabul edilir. Buyuk degisiklikler icin , lutfen once neyi degist
 
 ## License
 
-[MIT]("https://opensource.org/licenses/MIT")
+[MIT](https://opensource.org/licenses/MIT)
