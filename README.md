@@ -21,4 +21,4 @@ Pull requestler kabul edilir. Buyuk degisiklikler icin , lutfen once neyi degist
 
 ## License
 
-[MIT]('https://opensource.org/licenses/MIT')
+[MIT]("https://opensource.org/licenses/MIT")
